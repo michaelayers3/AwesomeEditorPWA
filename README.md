@@ -14,7 +14,9 @@
  * [Questions](#questions)
                 
  ## Installation
- To install, just clone the repo and run `npm install` to install the dependencies. Then run `npm start` to start the server.           
+ [This will take you to the deployed site](https://text-editor-of-the-future-44733cac4a32.herokuapp.com/).
+
+ If one wishes to install this locally, one can clone the repo and run `npm install` to install the dependencies. Then run `npm start` to start the server.           
         
  ## Usage
  This text editor can be used to create and save notes. It can be accessed from anywhere, and it can be used offline. In order to use it offline, you must first visit the site while online. Then you can access it offline. The site will be cached, so you can access it offline. When you go back online, the site will update to the latest version.       
